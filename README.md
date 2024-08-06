@@ -1,1 +1,1 @@
-Zed Code Editor Settings
+# Zed Code Editor Settings
