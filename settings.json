@@ -1,0 +1,41 @@
+{
+  "vim_mode": false,
+  "tab_size": 2,
+  "autosave": "on_window_change",
+  "ui_font_family": "Fira Code",
+  "ui_font_size": 16,
+  "buffer_font_family": "Fira Code",
+  "buffer_font_size": 16,
+  "terminal": {
+    "font_family": "MesloLGS NF",
+    "font_size": 14
+  },
+  "tab_bar": {
+    "show_nav_history_buttons": false
+  },
+  "toolbar": {
+    "quick_actions": false
+  },
+  "chat_panel": {
+    "button": false
+  },
+  "assistant": {
+    "version": "2",
+    "button": false
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "features": {
+    "inline_completion_provider": "none"
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Andromeda",
+    "dark": "Andromeda"
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  }
+}
